@@ -9,6 +9,7 @@ Usage
 File Structure
 Contributing
 License
+
 Project Overview
 DoggyDuo is a web application designed to provide an easy-to-navigate interface for users to browse through available dogs. Each dog listing includes details such as the dog's name, breed, age, price, and location.
 
@@ -16,6 +17,8 @@ Features
 Responsive design for all devices
 Clean and modern UI
 Easy-to-navigate layout
+
+
 Detailed dog profiles including:
 Name
 Breed
@@ -26,6 +29,7 @@ Description
 Installation
 To run this project locally, follow these steps:
 
+
 Clone the repository:
 bash
 Copy code
@@ -35,6 +39,7 @@ bash
 Copy code
 cd doggyduo
 Open the index.html file in your preferred web browser.
+
 Usage
 Once the website is loaded, you can browse through the list of available dogs. Click on any dog's profile to view more details about them. The website is fully responsive and can be accessed from any device, ensuring a seamless experience whether you are on a desktop, tablet, or mobile phone.
 
